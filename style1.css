@@ -8,7 +8,7 @@
 body {
     background-color: rgb(17, 81, 83);
 
-    /* this allows you to resize without the image getting desorted*/
+    /* this allows you to resize without the image getting desorted - Background picture*/ 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -27,7 +27,7 @@ header h1 {
 
 }
 
-header h2 {
+footer h2 {
     text-align: left;
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
